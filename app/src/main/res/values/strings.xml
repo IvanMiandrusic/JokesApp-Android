@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Only Jokes</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="title_activity_para_ninios">ParaNinios</string>
+    <string name="bienvenido_a_random_jokes_una_app_para_cargarse_de_risa">Bienvenido a Random Jokes, una app para cargarse de risa!</string>
+    <string name="anterior">ANTERIOR</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="menu">MENU</string>
+
+    //Chistes para Niños!!
+    <string-array name="ninios">
+        <item>ninio_1</item>
+        <item>ninio_2</item>
+        <item>ninio_3</item>
+        <item>ninio_4</item>
+        <item>ninio_5</item>
+    </string-array>
+
+
+    //Chistes De Salon!!
+    <string-array name="saolon">
+        <item>saolon_1</item>
+        <item>saolon_2</item>
+        <item>saolon_3</item>
+        <item>saolon_4</item>
+        <item>saolon_5</item>
+    </string-array>
+
+
+    //Chistes De Mal Gusto!!
+    <string-array name="mGusto">
+        <item>mGusto_1</item>
+        <item>mGusto_2</item>
+        <item>mGusto_3</item>
+        <item>mGusto_4</item>
+        <item>mGusto_5</item>
+    </string-array>
+
+</resources>
